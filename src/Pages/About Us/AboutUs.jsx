@@ -19,7 +19,7 @@ const AboutUs = () => {
         <div className={classes.content}>
           <h4 className={classes.h4}>Who we are</h4>
           <p>
-            Lorem ipsum dolor sit amet consectetur. Facilisi elementum tortor
+             ipsum dolor sit amet consectetur. Facilisi elementum tortor
             faucibus pretium tempor. Aliquam tincidunt magna porttitor
             adipiscing ut euismod pharetra ullamcorper nunc. Hendrerit bibendum
             odio sed massa molestie. Suspendisse et augue eget nec mauris
