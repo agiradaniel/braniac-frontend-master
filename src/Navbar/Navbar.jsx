@@ -15,9 +15,11 @@ const Navbar = ({ background }) => {
         <Link to="/aboutUs" className={classes.link}>
           About us
         </Link>
-        <Link to="/whyUs" className={classes.link}>
-          Why us
-        </Link>
+        {/* <Link to="/whyUs" className={classes.link}> */}
+        <a className={classes.link} href="#whyUs">
+                  Why Us
+                </a>
+        {/* </Link> */}
         <Link to="/howToUse" className={classes.link}>
           How To Use
         </Link>
