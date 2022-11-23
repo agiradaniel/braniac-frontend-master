@@ -31,8 +31,7 @@ const HowToUse = () => {
                   />
                 </svg>
               </span>
-              Lorem ipsum dolor sit amet consectetur. Rhoncus dictum rhoncus
-              volutpat enim volutpat nam risus.
+              Current location is automatically retrieved
             </p>
             <p>
               <span>
@@ -49,8 +48,7 @@ const HowToUse = () => {
                   />
                 </svg>
               </span>
-              Lorem ipsum dolor sit amet consectetur. Rhoncus dictum rhoncus
-              volutpat enim volutpat nam risus.
+              Check the different boxes according to the parameters you want
             </p>
             <p>
               <span>

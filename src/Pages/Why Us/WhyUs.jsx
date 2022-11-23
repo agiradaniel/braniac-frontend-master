@@ -26,8 +26,7 @@ const WhyUs = () => {
                   />
                 </svg>
               </span>
-              Lorem ipsum dolor sit amet consectetur. Rhoncus dictum rhoncus
-              volutpat enim volutpat nam risus.
+              We solve modern problems using modern solution
             </p>
             <p>
               <span>
@@ -44,8 +43,7 @@ const WhyUs = () => {
                   />
                 </svg>
               </span>
-              Lorem ipsum dolor sit amet consectetur. Rhoncus dictum rhoncus
-              volutpat enim volutpat nam risus.
+              Use of cutting edge technology
             </p>
             <p>
               <span>
@@ -62,8 +60,7 @@ const WhyUs = () => {
                   />
                 </svg>
               </span>
-              Lorem ipsum dolor sit amet consectetur. Rhoncus dictum rhoncus
-              volutpat enim volutpat nam risus.
+              Accurate models
             </p>
             <p>
               <span>
@@ -80,8 +77,7 @@ const WhyUs = () => {
                   />
                 </svg>
               </span>
-              Lorem ipsum dolor sit amet consectetur. Rhoncus dictum rhoncus
-              volutpat enim volutpat nam risus.
+              Team of dedicated engineers
             </p>
           </div>
 
