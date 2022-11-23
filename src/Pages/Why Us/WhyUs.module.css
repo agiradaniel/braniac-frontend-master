@@ -10,6 +10,7 @@
 }
 .container {
   display: flex;
+  height: 650px;
   align-items: center;
 }
 .why_paragraphs {

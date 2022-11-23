@@ -1,7 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;500;600;700;800;900&display=swap");
 
 .footer {
-  height: 200px;
   /* width: 100%; */
   background-color: #049b8c;
   display: flex;
@@ -10,7 +9,7 @@
   flex-direction: column;
   color: white;
   font-family: "Nunito";
-  padding: 20px;
+  padding: 30px;
 }
 .logo {
   height: 200px;

@@ -12,7 +12,7 @@ const Footer = () => {
         pellentesque.
       </p>
       <div className={classes.footer_Line} />
-      <p>&#169; 2021 Copyright Wezesha.com</p>
+      <p>&#169; 2021 Copyright Brainiac.com</p>
     </footer>
   );
 };
