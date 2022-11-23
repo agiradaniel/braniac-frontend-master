@@ -2,7 +2,8 @@ import React from "react";
 import Button from "../../Button/Button";
 import Footer from "../../Footer/Footer";
 import Navbar from "../../Navbar/Navbar";
-
+import WhyUs from "../Why Us/WhyUs";
+import HowToUse from "../How To Use/HowToUse";
 import classes from "./Home.module.css";
 
 const Home = () => {
@@ -20,10 +21,10 @@ const Home = () => {
           <Button />
         </div>
       </div>
-
-      {/* <WhyUs />
-      <HowToUse /> */}
-      <Footer />
+      
+      <WhyUs/>
+      <HowToUse/>
+      <Footer/>
     </>
   );
 };
