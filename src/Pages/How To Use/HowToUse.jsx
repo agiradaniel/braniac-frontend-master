@@ -65,8 +65,7 @@ const HowToUse = () => {
                   />
                 </svg>
               </span>
-              Lorem ipsum dolor sit amet consectetur. Rhoncus dictum rhoncus
-              volutpat enim volutpat nam risus.
+              Study the different layers
             </p>
             <p>
               <span>
@@ -83,8 +82,7 @@ const HowToUse = () => {
                   />
                 </svg>
               </span>
-              Lorem ipsum dolor sit amet consectetur. Rhoncus dictum rhoncus
-              volutpat enim volutpat nam risus.
+              Make large scale interventions
             </p>
           </div>
         </div>
